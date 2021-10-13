@@ -9,4 +9,6 @@ JAVA-Programs
 * OOP;
 * LinkedLists;
 * HashMaps;
+* Binary Trees;
+* Heaps;
 * etc...
